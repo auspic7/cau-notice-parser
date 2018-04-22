@@ -1,0 +1,22 @@
+{
+  "name": "cau-notice-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auspic7/cau-notice-parser.git"
+  },
+  "author": "Myeongwon Choi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auspic7/cau-notice-parser/issues"
+  },
+  "homepage": "https://github.com/auspic7/cau-notice-parser#readme",
+  "dependencies": {
+    "parse5": "^4.0.0"
+  }
+}

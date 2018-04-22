@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/auspic7/cau-notice-parser#readme",
   "dependencies": {
+    "jsdom": "^11.8.0",
     "parse5": "^4.0.0"
   }
 }
